@@ -1,0 +1,8 @@
+{
+  "versionName": "1.0.0",
+  "forceUpdate": false,
+  "title": "Epic Update Available!",
+  "description": "Get the newest features and improvements.",
+  "buttonText": "Download",
+  "buttonUrl": "https://telegram.me/EpicModder"
+}
