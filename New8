@@ -1,0 +1,34 @@
+
+
+[
+  {
+        "Header": "Default",
+    "version_code": 20226655,
+    "force_update": true,
+    "title": "Default Warning",
+    "description": "Please Don't Leach My Mod \ncheck current package name\n Check Current Version Code",
+    "update_button_text": "Update Immediately",
+    "Update_dismiss_button_text": "Dismiss",
+    "update_url": "https://telegram.me/EpicModder",
+    "description_type": 2,
+    "html_formatted": false,
+    "show_only_update_button": true
+  },
+ 
+  {
+    "Header": "INCoderMods",
+    "package_name": "com.patcher",
+    "version_code": 15506930,
+    "force_update": true,
+    "title": "Update Required v5.5.0",
+    "description_type": 4,
+    "html_formatted": true,
+    "description": "<font color='#FF5555'>✓ New Version Smoothly Work</font><br><font color='#FF5555'>⚠ No Need Uninstall Just Update App</font><br><font color='#4CAF50'>✓ 100% Secure App No Virus</font><br><font color='#4CAF50'>✓ New Export Function Enabled 💯</font><br><font color='#4CAF50'>✓ All Type Error  fixed 💯</font><br><br><i>Patched By EpicModder</i>",
+    "update_button_text": "UPDATE NOW",
+    "Update_dismiss_button_text": "Cancel",
+    "update_url": "https://telegram.me/EpicModder",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 1,
+    "show_only_update_button": false
+  }
+]
