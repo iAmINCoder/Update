@@ -1,6 +1,6 @@
 {
   "version": "4.1", 
-  "forceUpdate": true,
+  "forceUpdate": false,
   "updateUrl": "https://t.me/RecordAPK",
   "changelog": ["New Dynamic Server Update.", "Bugs fixed."],
   "btnUpdateText": "UPDATE NOW",
