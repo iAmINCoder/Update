@@ -1,7 +1,7 @@
 {
   "appName": "RecordApk", 
   "version": "4.1", 
-  "forceUpdate": true,
+  "forceUpdate": false,
   "updateUrl": "https://t.me/RecordAPK",
   "changelog": [
     "Official Release is out!",
