@@ -1,8 +1,13 @@
 {
+  "appName": "My Custom App", 
   "version": "4.1", 
-  "forceUpdate": false,
+  "forceUpdate": true,
   "updateUrl": "https://t.me/RecordAPK",
-  "changelog": ["New Dynamic Server Update.", "Bugs fixed."],
+  "changelog": [
+    "Official Release is out!",
+    "Dynamic App Name feature added.",
+    "Bugs completely fixed."
+  ],
   "btnUpdateText": "UPDATE NOW",
   "btnExitText": "EXIT"
 }
